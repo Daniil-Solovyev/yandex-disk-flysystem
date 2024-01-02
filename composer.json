@@ -1,5 +1,6 @@
 {
 	"name": "dws/yandex-disk-flysystem",
+	"version": "1.0.0",
 	"description": "The flysystem adapter for yandex disk rest api.",
 	"keywords": [
 		"yandex disk",
