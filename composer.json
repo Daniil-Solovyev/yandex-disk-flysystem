@@ -24,7 +24,10 @@
 		}
 	},
 	"require": {
-		"arhitector/yandex": "*",
+		"arhitector/yandex": "~2.0",
 		"league/flysystem": "*"
+	},
+	"config": {
+		"platform-check": false
 	}
 }
