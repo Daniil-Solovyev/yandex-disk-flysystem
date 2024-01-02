@@ -1,7 +1,5 @@
 ## Адаптер thephpleague/flysystem для Яндекс.Диск REST API (Flysystem Adapter for Yandex.Disk REST API).
 
-**В разработке**
-
 Посетите [https://oauth.yandex.ru](<https://oauth.yandex.ru>), создайте приложение и получите отладочный OAuth-токен.
 
 Visit [https://oauth.yandex.com](<https://oauth.yandex.com>) and create application. Get your OAuth token.
@@ -9,7 +7,7 @@ Visit [https://oauth.yandex.com](<https://oauth.yandex.com>) and create applicat
 ## Установка (Installation)
 
 ```
-$ composer require arhitector/yandex-disk-flysystem dev-master
+composer require arhitector/yandex-disk-flysystem dev-master
 ```
 
 ## Использование (Usage)

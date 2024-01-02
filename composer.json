@@ -1,5 +1,5 @@
 {
-	"name": "arhitector/yandex-disk-flysystem",
+	"name": "dws/yandex-disk-flysystem",
 	"description": "The flysystem adapter for yandex disk rest api.",
 	"keywords": [
 		"yandex disk",
@@ -23,7 +23,7 @@
 		}
 	},
 	"require": {
-		"arhitector/yandex": "~2.0",
-		"league/flysystem": "^1.0"
+		"arhitector/yandex": "*",
+		"league/flysystem": "*"
 	}
 }
