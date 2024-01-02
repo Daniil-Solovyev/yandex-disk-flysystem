@@ -23,9 +23,6 @@
 			"Arhitector\\Yandex\\Disk\\Adapter\\": "src/"
 		}
 	},
-	"require": {
-		"league/flysystem": "^3.0"
-	},
 	"config": {
 		"platform-check": false
 	}
